@@ -1,0 +1,1 @@
+This repository includes the code for Subtype-Specific Events Discovery Algorithm, which is an improved version of the Subtype and Stage Inference model. Their paper can be found here: https://www.nature.com/articles/s41467-018-05892-0
